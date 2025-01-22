@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**JinMuYang/JinMuYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Professional Certificate | edX Credentials](/certificates/Professional%20Certificate%20%7C%20edX%20Credentials.png)
+![HarvardX CS50W Certificate | edX](/certificates/HarvardX%20CS50W%20Certificate%20%7C%20edX.png)
+![CS50W](/certificates/CS50W.png)
+![CBDE-public-health_RecordOfAchievement](/certificates/CBDE-public-health_RecordOfAchievement.png)
+![CBDE-first-responders_RecordOfAchievement](/certificates/CBDE-first-responders_RecordOfAchievement.png)
+![CBDE-awareness_RecordOfAchievement](/certificates/CBDE-awareness_RecordOfAchievement.png)
+![inequality-monitoring-disaggregation-excel_RecordOfAchievement](/certificates/inequality-monitoring-disaggregation-excel_RecordOfAchievement.png)
+![inequality-monitoring-survey-disaggregation-r_RecordOfAchievement](/certificates/inequality-monitoring-survey-disaggregation-r_RecordOfAchievement.png)
+![inequality-monitoring-survey-disaggregation-stata_RecordOfAchievement](/certificates/inequality-monitoring-survey-disaggregation-stata_RecordOfAchievement.png)
+![health-equity-assessment-toolkit_RecordOfAchievement](/certificates/health-equity-assessment-toolkit_RecordOfAchievement.png)
+![multi-drug-resistant-tb_RecordOfAchievement](/certificates/multi-drug-resistant-tb_RecordOfAchievement.png)
+![introduction-oxygen-systems_ConfirmationOfParticipation](/certificates/introduction-oxygen-systems_ConfirmationOfParticipation.png)
+![national-civ-mil-collab-preparedness_RecordOfAchievement](/certificates/national-civ-mil-collab-preparedness_RecordOfAchievement.png)
+![PRET_ConfirmationOfParticipation](/certificates/PRET_ConfirmationOfParticipation.png)
+![severe-acute-respiratory-infection_ConfirmationOfParticipation](/certificates/severe-acute-respiratory-infection_ConfirmationOfParticipation.png)
+![ultra-low-temperature-vaccine-management_ConfirmationOfParticipation](/certificates/ultra-low-temperature-vaccine-management_ConfirmationOfParticipation.png)
+![IPC-MICRO-EN_RecordOfAchievement](/certificates/IPC-MICRO-EN_RecordOfAchievement.png)
+![ethics-ai-developers_RecordOfAchievement](/certificates/ethics-ai-developers_RecordOfAchievement.png)
+![ethics-ai_RecordOfAchievement](/certificates/ethics-ai_RecordOfAchievement.png)
+![bec-conflict-related-injury_RecordOfAchievement](/certificates/bec-conflict-related-injury_RecordOfAchievement.png)
+![bec_RecordOfAchievement](/certificates/bec_RecordOfAchievement.png)
+![Basic_Course_for_Planning_and_Managing_Medical_Oxygen-Course_Certificate_5374786](/certificates/Basic_Course_for_Planning_and_Managing_Medical_Oxygen-Course_Certificate_5374786.png)
+![Training_on_HEARTS_technical_package-Training_on_HEARTS_technical_package_certificate_for_clinicians_276](certificates/Training_on_HEARTS_technical_package-Training_on_HEARTS_technical_package_certificate_for_clinicians_276.png)
+![freecodecamp.org_certification_rebase_foundational-c-sharp-with-microsoft](/certificates/freecodecamp.org_certification_rebase_foundational-c-sharp-with-microsoft.png)
+![HarvardX CS50x Certificate | edX](/certificates/HarvardX%20CS50x%20Certificate%20%7C%20edX.png)
+![CS50x](/certificates/CS50x.png)
+![Coursera UGTTY22EFBS8](/certificates/Coursera%20UGTTY22EFBS8.png)
+![Stay Safe Level 2 Personal and Volunteer Security in Emergencies](/certificates/Stay%20Safe%20Level%202%20Personal%20and%20Volunteer%20Security%20in%20Emergencies.png)
+![Stay Safe Level 1 Fundamentals](/certificates/Stay%20Safe%20Level%201%20Fundamentals.png)
