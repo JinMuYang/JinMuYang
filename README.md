@@ -1,4 +1,4 @@
-![Professional Certificate | edX Credentials](/certificates/Professional%20Certificate%20%7C%20edX%20Credentials.png)
+![Web Professional Certificate | edX Credentials](/certificates/Web%20Professional%20Certificate%20%7C%20edX%20Credentials.png)
 ![HarvardX CS50W Certificate | edX](/certificates/HarvardX%20CS50W%20Certificate%20%7C%20edX.png)
 ![CS50W](/certificates/CS50W.png)
 ![CBDE-public-health_RecordOfAchievement](/certificates/CBDE-public-health_RecordOfAchievement.png)
