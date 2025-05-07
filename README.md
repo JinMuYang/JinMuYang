@@ -1,3 +1,6 @@
+![Python Professional Certificate | edX Credentials](/certificates/Python%20Professional%20Certificate%20%7C%20edX%20Credentials.png)
+![HarvardX CS50P Certificate | edX](/certificates/HarvardX%20CS50P%20Certificate%20%7C%20edX.png)
+![CS50P](/certificates/CS50P.png)
 ![Web Professional Certificate | edX Credentials](/certificates/Web%20Professional%20Certificate%20%7C%20edX%20Credentials.png)
 ![HarvardX CS50W Certificate | edX](/certificates/HarvardX%20CS50W%20Certificate%20%7C%20edX.png)
 ![CS50W](/certificates/CS50W.png)
